@@ -1,0 +1,56 @@
+*{
+	margin:0;
+	padding:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	box-sizing: border-box;
+	
+	
+	
+}
+.container{
+	width:1100px;
+	margin:0 auto;
+}
+/*header css*/
+header{
+	background-color:#49176d;
+	width:100%;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+header h3{
+	color:white;
+}
+	
+/*form css*/
+.form-box{
+	background-image:url(images/project.jpg);
+	width:100%;
+	height:100vh;
+	background-size:cover;
+}
+.form-box form{
+		background-color:#333;
+	height:100vh;
+	width:300px;
+	padding:50px 30px;
+	color:#fff;
+	float:right
+}
+.form-box form p{}
+.form-box form label{
+	display:block;
+}
+.form-box form input{
+	border:none;
+	width:100%;
+	height:34px;
+	background:gray;
+	margin-bottom:15px;
+}
+.form-box form select{}
+.form-box form select option{}
+.form-box form button{}
+
